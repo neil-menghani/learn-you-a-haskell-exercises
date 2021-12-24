@@ -4,4 +4,4 @@ doubleSmallNumber x = if x > 100
                         then x
                         else doubleMe x
 doubleSmallNumber' x = doubleSmallNumber x + 1
-conanO'Brien = "It's a-me, Conan O'Brien!"  
+conanO'Brien = "It's a-me, Conan O'Brien!"
